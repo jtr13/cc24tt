@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EDAV 2024 Community Contributions, Tues/Thurs section",
+    "section": "",
+    "text": "The scale_x_bd() function in R - Community Contribution for STATW5702 (EDAV)\nSTAT GR5702 EDAV: Community Contribution: Video Tutorial\nCommunity Contribution: Time Series Modeling with R: tidyquant and tidyverts Package (Group CC1)\nEDAV_CC10_community contribution\nBatchGetSymbols and Quantmod for Beginners\nEDAV Project Jiaheng & Yue\nCommunity Contribution Project - EDAV\nEDAV Community Contribution - Brigid Meisenbacher, Brittany Jiang\nNA\nCommunity Contribution - Erin Ma and Melody Ma\nNYC Taxi Fare Prediction Using a Shiny App\nWes Anderson Color Palettes for Data Visualization - RStudio, ggplot2, GitHub\nEDAV CC Group2 Video\nTrajectory Plot and its Animation in R\nEDAV Community Contribution: Video Tutorial\nAnalysis of cricketr package (Cran)\n5702CC 2024 FALL by XiaojiangWu&Yijian Liu\nCC\nCommunity Contribution Painter Package\nEDAV community contribution\nHow To: Visualize Word2Vec Embeddings with Shiny in R\nstat 5702 video assignment—ggiraph\nUsing Plotly Choropleth Maps in R\nCommunity Contribution - EDAV\nCommunity Contribution (EDAV Fall 2024): Aviation Data Analysis using SQL and ggplot2\nSTAT GR5702 EDAV Community Contribution: Naniar Package (Fall 2024)\nSocial Network Analysis of Harry Potter Characters using visNetwork & igraph\nCommunity Contribution: Video Tutorial on Package data.table\nVisualizing NYC Spatial Data using nycgeo package in R\nEDAV Project jw4656\nCommunity Contribution: Seurat Intro\nfour common ways to install R packages in RStudio\nData Visualization in R for individuals with Color Blindness\nQuick Generation of an EDA Report: ExpReport()\nCommunity Contribution\nSTATGR5702 Community Contribution Columbia University\nHow to Lie with Statistics - Colors Edition\n‘eia’ R Package Tutorial - EDAV Community Contribution\nReticulate R-package: enabling a workflow using both Python and R\nEdav video mw3824\nCommunity Contribution: ggVennDiagram\nGGPlot2 - Cyberpunk Theme\nEdav Video Communciation Contribution\nCommunity Detection with Interactive Visualization\nVisualizing Soccer Data with sportyR: A Practical Guide\nHow to use GGFormat in R?\nCommunity Contribution Video from Rui Wang(rw3086)\nIntroduction of visdat Package in R - EDAV Community Contribution\nHow to use ggeasy\nYihan Yang (yy3528) Community Contribution\nPlotly\nHow To Create Interactive Map Tutorial R\nTutorial of gganimate\nCommunity Contribution for EDAV Fall 2024"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +19,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
