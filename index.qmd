@@ -1,7 +1,19 @@
 ---
-title: "EDAV 2024 Community Contributions, Tues/Thurs section"
+title: "Welcome!"
+about: 
+  id: me
+  template: broadside
+  image: img/lionpic.png
 ---
 
+#### Tuesday/Thursday Community Contributions
+
+This website provides links to tutorials for various R packages and data visualization techniques. Click the **"Projects"** tab above to explore everyone's videos!
+
+---
+
+#### About our Content
+The videos are split into 8 categories: Machine Learning, Time Series, Interactive Plots, Real-World Applications, Colors, Geospatial Data, Installation and Preprocessing, and Other. 
 
 
 

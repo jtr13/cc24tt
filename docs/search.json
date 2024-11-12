@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Tuesday/Thursday Community Contributions\nThis website provides links to tutorials for various R packages and data visualization techniques. Click the “Projects” tab above to explore everyone’s videos!\n\n\n\nAbout our Content\nThe videos are split into 8 categories: Machine Learning, Time Series, Interactive Plots, Real-World Applications, Colors, Geospatial Data, Installation and Preprocessing, and Other."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
