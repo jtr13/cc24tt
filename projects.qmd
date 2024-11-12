@@ -2,8 +2,126 @@
 title: "Projects"
 ---
 
-## Project 1
+## Machine Learning 
 
-## Project 2
+[Data Visualization for Complex ML Packages](https://youtu.be/EBd--bt9598)
 
-## Project 3
+[Advanced Data Visualization for ML](https://youtu.be/7iq81__dgno)
+
+[End-to-end ML Workflow in R](https://youtu.be/Wp04i-YgADM)
+
+[Statistical Modeling and ML Tasks](https://youtu.be/8eDR2k8Qo5k)
+
+[K-Means Clustering Visualization](https://youtu.be/wjCz52U6smo)
+
+## Time Series
+
+[Time Series Forecasting and Analysis](https://www.youtube.com/watch?v=Y62JWEVG5Ek)
+
+[Time Series Analysis with Differencing & LOESS Smoothing](https://youtu.be/26_NHo6Db8s)
+
+[Time Series Workflow Tutorial](https://www.youtube.com/watch?v=Tp2NYxbrPjw)
+
+[The scale_x_bd() Function](https://www.youtube.com/watch?v=rUO-_lZ0E-Y)
+
+[BatchGetSymbols and Quantmod for Beginners](https://www.youtube.com/watch?v=r63ewpdRwa8)
+
+## Interactive Plots
+
+[Dynamic PLots with gganimate Package](https://youtu.be/ZrOJgP4DpHQ)
+
+[Dynamic Trajectory Plots and Animinations](https://www.youtube.com/watch?v=GBaq2mwyJ6w)
+
+[Plotly](https://youtu.be/eDcy8FDOBFo)
+
+[SunburstR Package](https://youtu.be/9Nm0Jkdom5c)
+
+[Animations with gganimate](https://youtu.be/zI-Jk2HrgmA)
+
+[Community Detection with Interactive Visualization](https://www.youtube.com/watch?v=vLeD_lFopLQ)
+
+[Dynamic Plots with ggiraph](https://youtu.be/QpNqfKTLllM)
+
+[Interactive Plots with ggiraph](https://youtu.be/RqiXANq9lVk)
+
+[Tutorial of gganimate](https://youtu.be/2LGbjRGNsek)
+
+## Real-World Applications
+
+[Analysis of cricketr Package](https://youtu.be/QkQ3HA_hesc)
+
+[Visualizing Soccer Data with sportyR](https://youtu.be/eRBKoSGxuao)
+
+[Visualizing Healthcare Data](https://www.youtube.com/@RamonCiutadPerez)
+
+[Aviation Data Analysis](https://youtu.be/vy06h_f_Sk8)
+
+[Seurat Package](https://youtu.be/KUuCtoODXsE)
+
+[eia Package - Energy Data](https://www.youtube.com/watch?v=SekYp6lYtZs)
+
+## Colors
+
+[ggeasy Package](https://youtu.be/Fe4J7t0pooE)
+
+[Painter Package](https://www.youtube.com/watch?v=Lw3P8rJvSGA)
+
+[Color Palettes for Data Visualization](https://youtu.be/BKMKCMKe1yE)
+
+[ggplot2 - Cyberpunk Theme](https://youtu.be/L8xnZ-rPgwg?si=J13v0wIAuB2lZJYD)
+
+[How to Lie with Statistics - Colors Edition](https://youtu.be/tVE_dHMYU0U)
+
+[Data Visualization for Individuals with Color Blindness](https://youtu.be/JzD8F0ucCOI)
+
+## Geospatial Data
+
+[Visualizing NYC Spatial Data using nycgeo Package](https://youtu.be/IBWy4g6BVa8)
+
+[How To Create Interactive Map Tutorial](https://youtu.be/cfxSvEAa1w0)
+
+[Geospatial Analysis](https://youtu.be/FVubOvHy9-k?feature=shared)
+
+[Using Plotly for Choropleth Maps](https://www.youtube.com/watch?v=8vxjZlrUJt0)
+
+## Installation and Preprocessing 
+
+[Introduction of visdat Package](https://youtu.be/NZA0k11vHO8)
+
+[Handling Missing Data](https://youtu.be/8Bw_YV86vvs?si=3fSScuPFpxi7mxks)
+
+[naniar Package for Handling Missing Data](https://youtu.be/h5Yx3F1HO4M)
+
+[Common Ways to Install R Packages](https://www.youtube.com/watch?v=cP7KpGvCM1U)
+
+[Quick Generation of an EDA Report: ExpReport()](https://youtu.be/GiG7TiiPP2Q)
+
+## Other
+
+[Mosaic Plots with Multiple Variables](https://www.youtube.com/watch?v=f2EO7fe-SW4)
+
+[Implementing Neural Networks with deepnet Package](https://www.youtube.com/watch?v=3YZDeFBF388)
+
+[Exploring NYT APIs](https://youtu.be/Y2VEh6Sm2DM)
+
+[NYC Taxi Fare Prediction Using a Shiny App](https://youtu.be/KruI6i_2N84)
+
+[Mosaic Plots](https://www.youtube.com/watch?v=pnkbf_5sju4)
+
+[Visualizations for Text Data](https://www.youtube.com/watch?v=8IyKcy501DQ)
+
+[Social Network Analysis of Harry Potter Characters Using visNetwork & igraph](https://www.youtube.com/watch?v=2KaArTX6E9s)
+
+[Tutorial on package data.table](https://www.youtube.com/watch?v=k79OvRtJz1Q)
+
+[Candle stick Chart](https://youtu.be/u3GCDnK5I0Y)
+
+[Pairwise Relationships](https://youtu.be/9dpovZDz4qo?si=S5j_OweHru67scAq)
+
+[Using both Python and R](https://youtu.be/x8fKB5AX9Rc)
+
+[ggVennDiagram Package](https://youtu.be/qG7zGDXU_Ts)
+
+[Develop Problem Statement from Data Visualization](https://youtu.be/LG2N0XOR27w)
+
+[How to Format Code with ggformat](https://youtu.be/4xwWypdovzg)

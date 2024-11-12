@@ -1,23 +1,65 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EDAV 2024 Community Contributions, Tues/Thurs section",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "The scale_x_bd() function in R - Community Contribution for STATW5702 (EDAV)\nSTAT GR5702 EDAV: Community Contribution: Video Tutorial\nCommunity Contribution: Time Series Modeling with R: tidyquant and tidyverts Package (Group CC1)\nEDAV_CC10_community contribution\nBatchGetSymbols and Quantmod for Beginners\nEDAV Project Jiaheng & Yue\nCommunity Contribution Project - EDAV\nEDAV Community Contribution - Brigid Meisenbacher, Brittany Jiang\nNA\nCommunity Contribution - Erin Ma and Melody Ma\nNYC Taxi Fare Prediction Using a Shiny App\nWes Anderson Color Palettes for Data Visualization - RStudio, ggplot2, GitHub\nEDAV CC Group2 Video\nTrajectory Plot and its Animation in R\nEDAV Community Contribution: Video Tutorial\nAnalysis of cricketr package (Cran)\n5702CC 2024 FALL by XiaojiangWu&Yijian Liu\nCC\nCommunity Contribution Painter Package\nEDAV community contribution\nHow To: Visualize Word2Vec Embeddings with Shiny in R\nstat 5702 video assignment—ggiraph\nUsing Plotly Choropleth Maps in R\nCommunity Contribution - EDAV\nCommunity Contribution (EDAV Fall 2024): Aviation Data Analysis using SQL and ggplot2\nSTAT GR5702 EDAV Community Contribution: Naniar Package (Fall 2024)\nSocial Network Analysis of Harry Potter Characters using visNetwork & igraph\nCommunity Contribution: Video Tutorial on Package data.table\nVisualizing NYC Spatial Data using nycgeo package in R\nEDAV Project jw4656\nCommunity Contribution: Seurat Intro\nfour common ways to install R packages in RStudio\nData Visualization in R for individuals with Color Blindness\nQuick Generation of an EDA Report: ExpReport()\nCommunity Contribution\nSTATGR5702 Community Contribution Columbia University\nHow to Lie with Statistics - Colors Edition\n‘eia’ R Package Tutorial - EDAV Community Contribution\nReticulate R-package: enabling a workflow using both Python and R\nEdav video mw3824\nCommunity Contribution: ggVennDiagram\nGGPlot2 - Cyberpunk Theme\nEdav Video Communciation Contribution\nCommunity Detection with Interactive Visualization\nVisualizing Soccer Data with sportyR: A Practical Guide\nHow to use GGFormat in R?\nCommunity Contribution Video from Rui Wang(rw3086)\nIntroduction of visdat Package in R - EDAV Community Contribution\nHow to use ggeasy\nYihan Yang (yy3528) Community Contribution\nPlotly\nHow To Create Interactive Map Tutorial R\nTutorial of gganimate\nCommunity Contribution for EDAV Fall 2024"
+    "text": "Data Visualization for Complex ML Packages\nAdvanced Data Visualization for ML\nEnd-to-end ML Workflow in R\nStatistical Modeling and ML Tasks\nK-Means Clustering Visualization"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "Data Visualization for Complex ML Packages\nAdvanced Data Visualization for ML\nEnd-to-end ML Workflow in R\nStatistical Modeling and ML Tasks\nK-Means Clustering Visualization"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#time-series",
+    "href": "projects.html#time-series",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "Time Series",
+    "text": "Time Series\nTime Series Forecasting and Analysis\nTime Series Analysis with Differencing & LOESS Smoothing\nTime Series Workflow Tutorial\nThe scale_x_bd() Function\nBatchGetSymbols and Quantmod for Beginners"
+  },
+  {
+    "objectID": "projects.html#interactive-plots",
+    "href": "projects.html#interactive-plots",
+    "title": "Projects",
+    "section": "Interactive Plots",
+    "text": "Interactive Plots\nDynamic PLots with gganimate Package\nDynamic Trajectory Plots and Animinations\nPlotly\nSunburstR Package\nAnimations with gganimate\nCommunity Detection with Interactive Visualization\nDynamic Plots with ggiraph\nInteractive Plots with ggiraph\nTutorial of gganimate"
+  },
+  {
+    "objectID": "projects.html#real-world-applications",
+    "href": "projects.html#real-world-applications",
+    "title": "Projects",
+    "section": "Real-World Applications",
+    "text": "Real-World Applications\nAnalysis of cricketr Package\nVisualizing Soccer Data with sportyR\nVisualizing Healthcare Data\nAviation Data Analysis\nSeurat Package\neia Package - Energy Data"
+  },
+  {
+    "objectID": "projects.html#colors",
+    "href": "projects.html#colors",
+    "title": "Projects",
+    "section": "Colors",
+    "text": "Colors\nggeasy Package\nPainter Package\nColor Palettes for Data Visualization\nggplot2 - Cyberpunk Theme\nHow to Lie with Statistics - Colors Edition\nData Visualization for Individuals with Color Blindness"
+  },
+  {
+    "objectID": "projects.html#geospatial-data",
+    "href": "projects.html#geospatial-data",
+    "title": "Projects",
+    "section": "Geospatial Data",
+    "text": "Geospatial Data\nVisualizing NYC Spatial Data using nycgeo Package\nHow To Create Interactive Map Tutorial\nGeospatial Analysis\nUsing Plotly for Choropleth Maps"
+  },
+  {
+    "objectID": "projects.html#installation-and-preprocessing",
+    "href": "projects.html#installation-and-preprocessing",
+    "title": "Projects",
+    "section": "Installation and Preprocessing",
+    "text": "Installation and Preprocessing\nIntroduction of visdat Package\nHandling Missing Data\nnaniar Package for Handling Missing Data\nCommon Ways to Install R Packages\nQuick Generation of an EDA Report: ExpReport()"
+  },
+  {
+    "objectID": "projects.html#other",
+    "href": "projects.html#other",
+    "title": "Projects",
+    "section": "Other",
+    "text": "Other\nMosaic Plots with Multiple Variables\nImplementing Neural Networks with deepnet Package\nExploring NYT APIs\nNYC Taxi Fare Prediction Using a Shiny App\nMosaic Plots\nVisualizations for Text Data\nSocial Network Analysis of Harry Potter Characters Using visNetwork & igraph\nTutorial on package data.table\nCandle stick Chart\nPairwise Relationships\nUsing both Python and R\nggVennDiagram Package\nDevelop Problem Statement from Data Visualization\nHow to Format Code with ggformat"
   }
 ]

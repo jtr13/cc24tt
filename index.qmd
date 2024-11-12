@@ -2,110 +2,21 @@
 title: "EDAV 2024 Community Contributions, Tues/Thurs section"
 ---
 
-[The scale_x_bd() function in R - Community Contribution for STATW5702 (EDAV)](https://www.youtube.com/watch?v=rUO-_lZ0E-Y)
 
-[STAT GR5702 EDAV: Community Contribution: Video Tutorial](https://www.youtube.com/watch?v=f2EO7fe-SW4)
 
-[Community Contribution: Time Series Modeling with R: tidyquant and tidyverts Package (Group CC1)](https://www.youtube.com/watch?v=Tp2NYxbrPjw)
 
-[EDAV_CC10_community contribution](https://youtu.be/8Bw_YV86vvs?si=3fSScuPFpxi7mxks)
 
-[BatchGetSymbols and Quantmod for Beginners](https://www.youtube.com/watch?v=r63ewpdRwa8)
 
-[EDAV Project Jiaheng & Yue](https://www.youtube.com/watch?v=3YZDeFBF388)
 
-[Community Contribution Project - EDAV](https://youtu.be/zI-Jk2HrgmA)
 
-[EDAV Community Contribution - Brigid Meisenbacher, Brittany Jiang](https://youtu.be/Y2VEh6Sm2DM)
 
-[NA](https://www.youtube.com/@RamonCiutadPerez)
 
-[Community Contribution - Erin Ma and Melody Ma](https://youtu.be/ZrOJgP4DpHQ)
 
-[NYC Taxi Fare Prediction Using a Shiny App](https://youtu.be/KruI6i_2N84)
 
-[Wes Anderson Color Palettes for Data Visualization - RStudio, ggplot2, GitHub](https://youtu.be/BKMKCMKe1yE)
 
-[EDAV CC Group2 Video](https://youtu.be/Wp04i-YgADM)
 
-[Trajectory Plot and its Animation in R](https://www.youtube.com/watch?v=GBaq2mwyJ6w)
 
-[EDAV Community Contribution: Video Tutorial](https://youtu.be/FVubOvHy9-k?feature=shared)
 
-[Analysis of cricketr package (Cran)](https://youtu.be/QkQ3HA_hesc)
 
-[5702CC 2024 FALL by XiaojiangWu&Yijian Liu](https://youtu.be/QpNqfKTLllM)
 
-[CC](https://www.youtube.com/watch?v=pnkbf_5sju4)
 
-[Community Contribution   Painter Package](https://www.youtube.com/watch?v=Lw3P8rJvSGA)
-
-[EDAV community contribution](https://youtu.be/8eDR2k8Qo5k)
-
-[How To: Visualize Word2Vec Embeddings with Shiny in R](https://www.youtube.com/watch?v=8IyKcy501DQ)
-
-[stat 5702 video assignment—ggiraph](https://youtu.be/RqiXANq9lVk)
-
-[Using Plotly Choropleth Maps in R](https://www.youtube.com/watch?v=8vxjZlrUJt0)
-
-[Community Contribution - EDAV](https://youtu.be/wjCz52U6smo)
-
-[Community Contribution (EDAV Fall 2024): Aviation Data Analysis using SQL and ggplot2](https://youtu.be/vy06h_f_Sk8)
-
-[STAT GR5702 EDAV Community Contribution: Naniar Package (Fall 2024)](https://youtu.be/h5Yx3F1HO4M)
-
-[Social Network Analysis of Harry Potter Characters using visNetwork & igraph](https://www.youtube.com/watch?v=2KaArTX6E9s)
-
-[Community Contribution: Video Tutorial on Package data.table](https://www.youtube.com/watch?v=k79OvRtJz1Q)
-
-[Visualizing NYC Spatial Data using nycgeo package in R](https://youtu.be/IBWy4g6BVa8)
-
-[EDAV Project jw4656](https://youtu.be/26_NHo6Db8s)
-
-[Community Contribution: Seurat Intro](https://youtu.be/KUuCtoODXsE)
-
-[four common ways to install R packages in RStudio](https://www.youtube.com/watch?v=cP7KpGvCM1U)
-
-[Data Visualization in R for individuals with Color Blindness](https://youtu.be/JzD8F0ucCOI)
-
-[Quick Generation of an EDA Report: ExpReport()](https://youtu.be/GiG7TiiPP2Q)
-
-[Community Contribution](https://youtu.be/u3GCDnK5I0Y)
-
-[STATGR5702 Community Contribution Columbia University](https://youtu.be/9dpovZDz4qo?si=S5j_OweHru67scAq)
-
-[How to Lie with Statistics - Colors Edition](https://youtu.be/tVE_dHMYU0U)
-
-['eia' R Package Tutorial - EDAV Community Contribution](https://www.youtube.com/watch?v=SekYp6lYtZs)
-
-[Reticulate R-package: enabling a workflow using both Python and R](https://youtu.be/x8fKB5AX9Rc)
-
-[Edav video mw3824](https://youtu.be/7iq81__dgno)
-
-[Community Contribution: ggVennDiagram](https://youtu.be/qG7zGDXU_Ts)
-
-[GGPlot2 - Cyberpunk Theme](https://youtu.be/L8xnZ-rPgwg?si=J13v0wIAuB2lZJYD)
-
-[Edav Video Communciation Contribution](https://youtu.be/LG2N0XOR27w)
-
-[Community Detection with Interactive Visualization](https://www.youtube.com/watch?v=vLeD_lFopLQ)
-
-[Visualizing Soccer Data with sportyR: A Practical Guide](https://youtu.be/eRBKoSGxuao)
-
-[How to use GGFormat in R?](https://youtu.be/4xwWypdovzg)
-
-[Community Contribution Video from Rui Wang(rw3086)](https://youtu.be/EBd--bt9598)
-
-[Introduction of visdat Package in R - EDAV Community Contribution](https://youtu.be/NZA0k11vHO8)
-
-[How to use ggeasy](https://youtu.be/Fe4J7t0pooE)
-
-[Yihan Yang (yy3528) Community Contribution](https://youtu.be/9Nm0Jkdom5c)
-
-[Plotly](https://youtu.be/eDcy8FDOBFo)
-
-[How To Create Interactive Map Tutorial R](https://youtu.be/cfxSvEAa1w0)
-
-[Tutorial of gganimate](https://youtu.be/2LGbjRGNsek)
-
-[Community Contribution for EDAV Fall 2024](https://www.youtube.com/watch?v=Y62JWEVG5Ek)
